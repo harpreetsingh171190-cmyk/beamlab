@@ -38,3 +38,4 @@ This is a static site — works directly on **GitHub Pages** (no server needed, 
 
 ## Author
 Harpreet Singh
+  
