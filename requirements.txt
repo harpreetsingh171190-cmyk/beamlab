@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+# Optional for deep learning:
+tensorflow
+# Optional for computer vision:
+opencv-python
