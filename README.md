@@ -157,4 +157,4 @@ Released under the [MIT License](LICENSE) — © 2026 HARPREETSING.
 
 ## 👤 Author
 
-**HARPREETSING**
+**HARPREET SINGH**
